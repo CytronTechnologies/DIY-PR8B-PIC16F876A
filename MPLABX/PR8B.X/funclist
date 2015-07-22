@@ -1,0 +1,13 @@
+_delay: CODE, 1285 0 35
+__stringtab: STRING, 3 0 6
+__stringdata: STRING, 9 0 102
+_beep: CODE, 1222 0 31
+_main: CODE, 1392 0 627
+_uart_rec: CODE, 1115 0 10
+_lcd_clr: CODE, 1142 0 18
+__initialization: CODE, 2019 0 25
+_lcd_goto: CODE, 1200 0 22
+_send_string: CODE, 1253 0 32
+_send_config: CODE, 1320 0 36
+_send_char: CODE, 1356 0 36
+Total: 980
